@@ -1,0 +1,6 @@
+framework module THSegmentedControl {
+  umbrella header "THSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
